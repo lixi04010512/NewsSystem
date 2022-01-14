@@ -1,0 +1,37 @@
+body{
+    background-image: url("/img/1.jpg");
+}
+ul {
+    list-style: none;
+    margin-left: 5px;
+}
+
+ul li{
+    display: block;
+    line-height: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#first{
+    position: relative;
+    left: 500px;
+    top: 150px;
+    color: white;
+}
+
+#second{
+    position: relative;
+    left: 460px;
+    top: 155px;
+    color: white;
+}
+#ul_li{
+    border-style:solid;
+	border-width:1px;
+    width: 160px;
+    height: 220px;
+    border-color:white;
+    border-radius:25px;
+}
